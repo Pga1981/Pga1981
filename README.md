@@ -14,12 +14,6 @@
 
 ---
 
-### 📁 Proyectos Destacados
-1. [**Análisis de Logs con Python**](link-a-tu-repo): Script para identificar intentos de acceso fallidos y automatizar alertas.
-2. [**Auditoría de Seguridad con NIST**](link-a-tu-repo): Aplicación del framework NIST para evaluar riesgos en una red ficticia.
-3. [**Investigación de Incidentes (Write-ups)**](link-a-tu-repo): Documentación detallada de resolución de laboratorios y CTFs.
-
----
 
 ### 📜 Certificaciones
 - **Google Cybersecurity Professional Certificate** (2025)
