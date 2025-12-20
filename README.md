@@ -17,7 +17,7 @@
 
 ### 📜 Certificaciones
 - [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/7E7G6VN2QUQF)
-- **Google Analytics Profesional Certificate** (2024)
+- [**Google Analytics Profesional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/YSPGGPKDLBFO)
 
 ---
 
