@@ -9,7 +9,7 @@
 
 #### Escenario 1: Intentos fallidos de inicio de sesión
 - **Acción:** Se realizaron 5 intentos fallidos de inicio de sesión desde la misma máquina
-- ![Primera Prueba](Wazuh-SOC-Lab/IntentosInicioSesionFallidos.png)
+- ![Primera Prueba](IntentosInicioSesionFallidos.png)
 - **Resultados:** El SIEM capturó dichos inicios fallidos en el que la regla de descripción detecctó `rule.description: Logon Failure - Unknown user or bad Password`
 
 #### Escenario 2: Detección de Ataque de Fuerza Bruta (SSH)
