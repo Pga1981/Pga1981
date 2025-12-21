@@ -8,13 +8,23 @@ Aunque estoy iniciando mi trayectoria profesional, mi formación es puramente pr
 ---
 
 ### 🛠️ Herramientas y Tecnologías
-- **SIEM:** Wazuh (Básico/Intermedio).
-- **Redes:** Wireshark, TCPdump, Análisis de tráfico.
-- **Sistemas:** Linux (Ubuntu/Kali), Windows.
+- **SIEM:** Despliegue y administración de Wazuh (Manager, Indexer, Dashboard).
+- **Redes**: Configuración de redes internas, direccionamiento IP estático y protocolos (SSH, TCP/IP, ICMP).
+- **Sistemas Operativos**: Hardening y monitorización de Windows y Linux (Debian/CentOS).
+- **Herramientas de Seguridad**: Kali Linux, Hydra (fuerza bruta), PowerShell, Nmap.
 - **Lenguajes:** Python (Scripting), SQL, Bash.
 
 ---
 
+### 🚀 Proyectos Destacados
+
+|   **Proyecto**  |**Descripción**     |**Enlace**     |
+| --- | --- | --- |
+|     |     |     |
+|     |     |     |
+
+
+---
 
 ### 📜 Certificaciones
 - [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/7E7G6VN2QUQF)
