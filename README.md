@@ -20,8 +20,8 @@ Aunque estoy iniciando mi trayectoria profesional, mi formación es puramente pr
 
 |   **Proyecto**  |**Descripción**     |**Enlace al proyecto**     |
 | --- | --- | --- |
-|  01-SOC Lab Wazuh   |    Despliegue de SIEM y detección de ataques en tiempo real (Brute Force & Account Changes). |  Proyecto 01 (Brute Force & Account Changes).   |
-| --- | --- | --- |
+|  01-SOC Lab Wazuh   |    Despliegue de SIEM y detección de ataques en tiempo real (Brute Force & Account Changes). |  Proyecto 01 (Brute Force & Account Changes)   |
+|     |     |     |
 |     |     |     |
 
 
