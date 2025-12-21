@@ -9,6 +9,10 @@
 
 #### Escenario 1: Intentos fallidos de inicio de sesión
 - **Acción:** Se realizaron 5 intentos fallidos de inicio de sesión desde la misma máquina
+- <details>
+  <summary>Haz clic para ver la imagen</summary>
+  <img src="IntentosInicioSesionFallidos.png" alt="Descripción de la imagen" width="300"/>
+</details>
 - ![Primera Prueba](IntentosInicioSesionFallidos.png)
 - **Resultados:** El SIEM capturó dichos inicios fallidos en el que la regla de descripción detecctó `rule.description: Logon Failure - Unknown user or bad Password`
 - ![Primera Prueba](IntentosFallidos.png)
