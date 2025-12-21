@@ -6,11 +6,16 @@
 - **SIEM Manager:** Wazuh v4.x (OVA) configurado con IP estática en Red Interna.
 - **Endpoint:** Windows 10 con Agente Wazuh instalado para telemetría profunda.
 - **Atacante:** Kali Linux configurado en el mismo segmento de red para pruebas de intrusión.
-#### Escenario 1: Detección de Ataque de Fuerza Bruta (SSH)
+
+#### Escenario 1: Intentos fallidos de inicio de sesión
+- **Acción:** Se realizaron 5 intentos fallidos de inicio de sesión desde la misma máquina
+- **Resultados:** El SIEM capturó dichos inicios fallidos en el que la regla de descripción detecctó `rule.description: Logon Failure - Unknown user or bad Password`
+
+#### Escenario 2: Detección de Ataque de Fuerza Bruta (SSH)
 - **Acción:** Se realizó un ataque de diccionario contra el servicio SSH del Manager usando la herramienta **Hydra** desde Kali.
 - **Resultado:** El SIEM generó una alerta crítica (Nivel 10) identificando la IP origen del atacante y el usuario objetivo (`root`).
 - **Log Detectado:** `Rule ID: 5720 - Multiple authentication failures`.
-#### Escenario 2: Monitorización de Persistencia en Windows
+#### Escenario 3: Monitorización de Persistencia en Windows
 - **Acción:** Creación y borrado de cuentas de usuario mediante **PowerShell** para simular la creación de "puertas traseras".
 - **Análisis Forense:** A través del Dashboard de Wazuh, se filtraron los eventos del agente Windows identificando:
     - **Creación:** `Rule ID: 60109 - User account enabled or created`.
