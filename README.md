@@ -3,7 +3,7 @@
 
 Aunque estoy iniciando mi trayectoria profesional, mi formación es puramente práctica y autodidacta. Mi objetivo es aplicar mis conocimientos técnicos y mi capacidad analítica en un equipo de seguridad (SOC/Blue Team) donde pueda contribuir a la detección y respuesta ante incidentes desde el primer día.
 
-Objetivo: Obtener mi primera oportunidad laboral como Analista de Seguridad Junior para seguir creciendo en el área de defensa activa.
+>> Objetivo: Obtener mi primera oportunidad laboral como Analista de Seguridad Junior para seguir creciendo en el área de defensa activa.
 
 ---
 
