@@ -13,6 +13,7 @@
   <summary>Haz clic para ver la imagen</summary>
   <img src="IntentosInicioSesionFallidos.png" alt="Descripción de la imagen" width="600"/>
 </details>
+
 - **Resultados:** El SIEM capturó dichos inicios fallidos en el que la regla de descripción detecctó `rule.description: Logon Failure - Unknown user or bad Password`
 - <details>
   <summary>Haz clic para ver la imagen</summary>
