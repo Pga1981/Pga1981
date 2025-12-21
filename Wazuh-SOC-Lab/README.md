@@ -13,9 +13,11 @@
   <summary>Haz clic para ver la imagen</summary>
   <img src="IntentosInicioSesionFallidos.png" alt="Descripción de la imagen" width="600"/>
 </details>
-- ![Primera Prueba](IntentosInicioSesionFallidos.png)
 - **Resultados:** El SIEM capturó dichos inicios fallidos en el que la regla de descripción detecctó `rule.description: Logon Failure - Unknown user or bad Password`
-- ![Primera Prueba](IntentosFallidos.png)
+- <details>
+  <summary>Haz clic para ver la imagen</summary>
+  <img src="IntentosFallidos.png" alt="Descripción de la imagen" width="600"/>
+</details>
 
 #### Escenario 2: Detección de Ataque de Fuerza Bruta (SSH)
 - **Acción:** Se realizó un ataque de diccionario contra el servicio SSH del Manager usando la herramienta **Hydra** desde Kali.
