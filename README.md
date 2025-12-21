@@ -18,7 +18,7 @@ Aunque estoy iniciando mi trayectoria profesional, mi formación es puramente pr
 
 ### 🚀 Proyectos Destacados
 
-|   **Proyecto**  |**Descripción**     |**Enlace**     |
+|   **Proyecto**  |**Descripción**     |**Enlace al proyecto**     |
 | --- | --- | --- |
 |     |     |     |
 |     |     |     |
