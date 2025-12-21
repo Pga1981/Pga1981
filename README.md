@@ -21,8 +21,7 @@ Aunque estoy iniciando mi trayectoria profesional, mi formación es puramente pr
 |   **Proyecto**  |**Descripción**     |**Enlace al proyecto**     |
 | --- | --- | --- |
 |  01-SOC Lab Wazuh   |    Despliegue de SIEM y detección de ataques en tiempo real (Brute Force & Account Changes). |  [Proyecto 01](https://github.com/Pga1981/Pga1981/blob/main/Wazuh-SOC-Lab/README.md)   |
-|     |     |     |
-|     |     |     |
+|  02 - Escaneo y Vulnerabilidades |   Análisis de red con Nmap y gestión de vulnerabilidades en endpoints.  |  [Proyecto 02](https://github.com/Pga1981/Pga1981/blob/main/Network-Security-Nmap/README.md)    |
 
 
 ---
