@@ -22,6 +22,7 @@
 
 #### Escenario 2: Detección de Ataque de Fuerza Bruta (SSH)
 - **Acción:** Se realizó un ataque de diccionario contra el servicio SSH del Manager usando la herramienta **Hydra** desde Kali.
+- **Primera comprobación:** Se va a usar el registro del sistema para ver los eventos de SSH con el siguiente comando `journalctl -f -u sshd` y se verifica que hay una máquina intentando 
 - **Resultado:** El SIEM generó una alerta crítica (Nivel 10) identificando la IP origen del atacante y el usuario objetivo (`root`).
 - **Log Detectado:** `Rule ID: 5720 - Multiple authentication failures`.
 #### Escenario 3: Monitorización de Persistencia en Windows
