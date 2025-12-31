@@ -29,7 +29,6 @@
 </details>
 
 - **Resultado:** El SIEM generó una alertas críticas identificando la IP origen del atacante `192.168.50.10` y el usuario objetivo (`root`).
-- **Log Detectado:** `Rule ID: 5720 - Multiple authentication failures`.
 - <details>
   <summary>Haz clic para ver la imagen</summary>
   <img src="fuerzaBrutaDashboard.png" alt="Fuerza Bruta" width="600"/>
