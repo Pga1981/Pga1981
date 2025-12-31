@@ -25,11 +25,16 @@
 - **Primera comprobación:** Se va a usar el registro del sistema para ver los eventos de SSH con el siguiente comando `journalctl -f -u sshd` y se verifica que hay una máquina intentando autenticarse
 - <details>
   <summary>Haz clic para ver la imagen</summary>
-  <img src="FuerzaBrutaTerminal.png" alt="Intentos Fallidos de inicio de sesión" width="600"/>
+  <img src="FuerzaBrutaTerminal.png" alt="Fuerza Bruta" width="600"/>
 </details>
 
 - **Resultado:** El SIEM generó una alerta crítica (Nivel 10) identificando la IP origen del atacante y el usuario objetivo (`root`).
 - **Log Detectado:** `Rule ID: 5720 - Multiple authentication failures`.
+- <details>
+  <summary>Haz clic para ver la imagen</summary>
+  <img src="FuerzaBrutaDashboard.png" alt="Fuerza Bruta" width="600"/>
+</details>
+
 #### Escenario 3: Monitorización de Persistencia en Windows
 - **Acción:** Creación y borrado de cuentas de usuario mediante **PowerShell** para simular la creación de "puertas traseras".
 - **Análisis Forense:** A través del Dashboard de Wazuh, se filtraron los eventos del agente Windows identificando:
