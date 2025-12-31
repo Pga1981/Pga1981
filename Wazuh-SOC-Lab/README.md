@@ -38,7 +38,17 @@
 - **Acción:** Creación y borrado de cuentas de usuario mediante **PowerShell** para simular la creación de "puertas traseras".
 - **Análisis Forense:** A través del Dashboard de Wazuh, se filtraron los eventos del agente Windows identificando:
     - **Creación:** `Rule ID: 60109 - User account enabled or created`.
-    - **Borrado:** `Rule ID: 60110 - User account deleted`.
+<details>
+  <summary>Haz clic para ver la imagen</summary>
+  <img src="addAtacanteGrafica.png" alt="Add Atacante" width="600"/>
+</details>
+
+<details>
+  <summary>Haz clic para ver la imagen</summary>
+  <img src="addAtacanteJson.png" alt="Fuerza Bruta" width="600"/>
+</details>
+
+- **Borrado:** `Rule ID: 60111 - User account deleted`.
 - **Valor Técnico:** Se logró identificar el campo exacto `targetUserName: Atacante` dentro del log JSON, demostrando visibilidad total sobre los cambios de privilegios.
 #### 🛠️ Desafíos y Troubleshooting (Resolución de problemas)
 
