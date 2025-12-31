@@ -37,13 +37,13 @@
 #### Escenario 3: Monitorización de Persistencia en Windows
 - **Acción:** Creación y borrado de cuentas de usuario mediante **PowerShell** para simular la creación de "puertas traseras".
 - **Análisis Forense:** A través del Dashboard de Wazuh, se filtraron los eventos del agente Windows identificando:
-    - **Creación:** `Rule ID: 60109 - User account enabled or created`.
-<details>
+- **Creación:** `Rule ID: 60109 - User account enabled or created`.
+- <details>
   <summary>Haz clic para ver la imagen</summary>
   <img src="addAtacanteGrafica.png" alt="Add Atacante" width="600"/>
 </details>
 
-<details>
+- <details>
   <summary>Haz clic para ver la imagen</summary>
   <img src="addAtacanteJson.png" alt="Fuerza Bruta" width="600"/>
 </details>
