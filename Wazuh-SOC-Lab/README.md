@@ -27,6 +27,7 @@
   <summary>Haz clic para ver la imagen</summary>
   <img src="FuerzaBrutaTerminal.png" alt="Intentos Fallidos de inicio de sesión" width="600"/>
 </details>
+
 - **Resultado:** El SIEM generó una alerta crítica (Nivel 10) identificando la IP origen del atacante y el usuario objetivo (`root`).
 - **Log Detectado:** `Rule ID: 5720 - Multiple authentication failures`.
 #### Escenario 3: Monitorización de Persistencia en Windows
