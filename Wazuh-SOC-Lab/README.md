@@ -11,13 +11,13 @@
 - **Acción:** Se realizaron 5 intentos fallidos de inicio de sesión desde la misma máquina
 - <details>
   <summary>Haz clic para ver la imagen</summary>
-  <img src="IntentosInicioSesionFallidos.png" alt="Descripción de la imagen" width="600"/>
+  <img src="IntentosInicioSesionFallidos.png" alt="Intentos Fallidos de inicio de sesión" width="600"/>
 </details>
 
-- **Resultados:** El SIEM capturó dichos inicios fallidos en el que la regla de descripción detecctó `rule.description: Logon Failure - Unknown user or bad Password`
+- **Resultados:** El SIEM capturó dichos inicios fallidos en el que la regla de descripción detecctó `rule.description: Logon Failure - Unknown user or bad Password`, también se verificó la IP de la máquina donde se estaban haciendo esos intentos fallidos `192.168.50.20`.
 - <details>
   <summary>Haz clic para ver la imagen</summary>
-  <img src="IntentosFallidos.png" alt="Descripción de la imagen" width="600"/>
+  <img src="IntentosFallidos.png" alt="Intentos Fallidos de inicio de sesión" width="600"/>
 </details>
 
 #### Escenario 2: Detección de Ataque de Fuerza Bruta (SSH)
