@@ -49,6 +49,11 @@
 </details>
 
 - **Borrado:** `Rule ID: 60111 - User account deleted`.
+- <details>
+  <summary>Haz clic para ver la imagen</summary>
+  <img src="eliminarAtacante.png" alt="Fuerza Bruta" width="600"/>
+</details>
+
 - **Valor Técnico:** Se logró identificar el campo exacto `targetUserName: Atacante` dentro del log JSON, demostrando visibilidad total sobre los cambios de privilegios.
 #### 🛠️ Desafíos y Troubleshooting (Resolución de problemas)
 
