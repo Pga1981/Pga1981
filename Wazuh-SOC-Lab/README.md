@@ -32,7 +32,7 @@
 - **Log Detectado:** `Rule ID: 5720 - Multiple authentication failures`.
 - <details>
   <summary>Haz clic para ver la imagen</summary>
-  <img src="FuerzaBrutaDashboard.png" alt="Fuerza Bruta" width="600"/>
+  <img src="fuerzaBrutaDashboard.png" alt="Fuerza Bruta" width="600"/>
 </details>
 
 #### Escenario 3: Monitorización de Persistencia en Windows
